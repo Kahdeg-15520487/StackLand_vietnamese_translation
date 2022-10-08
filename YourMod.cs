@@ -6,9 +6,9 @@ using System.Linq;
 using System.Reflection;
 using UnityEngine;
 
-namespace YourMod
+namespace VietnameseTranslationMod
 {
-    [BepInPlugin("EpicExampleModId", "Epic Example Mod", "0.0.1")]
+    [BepInPlugin("vietnamese-translate", "Translate text into Vietnamese", "0.0.2")]
     [BepInDependency("BerryLoader")]
     class Plugin : BaseUnityPlugin
     {
